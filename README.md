@@ -4,7 +4,7 @@ Linear Regression is an algorithm that belongs to supervised Machine Learning. I
 
 ***Linear regression can be expressed mathematically as:*** 
 
-**y= β0+ β 1x+ ε** 
+**y= β0 + β1X + ε** 
 
 Here, 
 
