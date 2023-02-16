@@ -4,12 +4,12 @@ Linear Regression is an algorithm that belongs to supervised Machine Learning. I
 
 ***Linear regression can be expressed mathematically as:*** 
 
-**y= β0 + β1X + ε** 
+**y= β0 + β1x + ε** 
 
 Here, 
 
-**Y**= Dependent Variable  
-**X**= Independent Variable  
+**y**= Dependent Variable  
+**x**= Independent Variable  
 **β0**= intercept of the line  
 **β1**= Linear regression coefficient (slope of the line) 
 **ε**= random error 
