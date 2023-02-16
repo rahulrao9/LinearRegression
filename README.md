@@ -14,3 +14,5 @@ Here,
 **β1**= Linear regression coefficient (slope of the line) 
 **ε**= random error 
 >The last parameter, random error ε, is required as the best fit line also doesn't include the data points perfectly. 
+
+For more info, click ***[here](https://www.geeksforgeeks.org/ml-linear-regression/)***
